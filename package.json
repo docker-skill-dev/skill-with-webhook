@@ -1,0 +1,12 @@
+{
+  "name": "skill-sample-2",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@atomist/skill-entry-point": "^0.1.41",
+    "uuid": "^8.3.2"
+  }
+}
